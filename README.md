@@ -10,8 +10,8 @@
 <br/><br/>
 
 <!-- Badges Row -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyanshi%20Soni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshi-soni)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyanshi%20Soni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshi-soni-246347224/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://priyanshi-soni24.netlify.app/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Ps1231)
 [![Profile Views](https://komarev.com/ghpvc/?username=Ps1231&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/Ps1231)
 [![Open to Work](https://img.shields.io/badge/Status-Open%20To%20Work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
