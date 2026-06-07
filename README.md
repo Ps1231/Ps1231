@@ -1,7 +1,6 @@
-<div align="center">
-
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Priyanshi%20Soni&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Backend%20%7C%20Full%20Stack%20%7C%20ML%20%26%20AI%20Researcher&descAlignY=55&descSize=16" width="100%"/>
+<div align="center"><div align="center">
+<!-- Animated Header Banner - using simpler reliable params -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:ec4899&height=200&section=header&text=Priyanshi%20Soni&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Python%20Backend%20%7C%20Full%20Stack%20%7C%20ML%20%26amp%3B%20AI%20Researcher&descAlignY=58&descSize=17&descColor=e2e8f0" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -100,7 +99,7 @@ class Priyanshi(Developer, Researcher):
 
 </div>
 
-
+---
 
 ## 🔬 What I'm Working On
 
@@ -118,11 +117,11 @@ class Priyanshi(Developer, Researcher):
 
 ---
 
-## 🏆 GitHub Trophies
+<!---  ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ps1231&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub Trophies"/>
-</div>
+<img src="https://github-trophies.vercel.app/?username=Ps1231&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+</div> --->
 
 
 
